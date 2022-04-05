@@ -1,1 +1,0 @@
-# yoshidayasutaka.github.io

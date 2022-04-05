@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "yoshidayasutakaのサイト",
+    "description": "",
+    "home_page_url": "https://yoshidayasutaka.github.io",
+    "feed_url": "https://yoshidayasutaka.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "yoshidayasutaka.github.io"
+    },
+    "items": [
+        {
+            "id": "https://yoshidayasutaka.github.io/oronoyaa.html",
+            "url": "https://yoshidayasutaka.github.io/oronoyaa.html",
+            "title": "|ω・｀)ノﾔｧ",
+            "summary": "あああ",
+            "content_html": "\n  <p>\n    あああ\n  </p>\n\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "yoshidayasutaka.github.io"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-04-06T08:05:22+09:00",
+            "date_modified": "2022-04-06T08:05:22+09:00"
+        }
+    ]
+}

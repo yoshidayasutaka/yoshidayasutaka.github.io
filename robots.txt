@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://yoshidayasutaka.github.io/sitemap.xml

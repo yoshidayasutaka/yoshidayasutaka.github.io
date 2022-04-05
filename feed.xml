@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>yoshidayasutakaのサイト</title>
+    <link href="https://yoshidayasutaka.github.io/feed.xml" rel="self" />
+    <link href="https://yoshidayasutaka.github.io" />
+    <updated>2022-04-06T08:05:22+09:00</updated>
+    <author>
+        <name>yoshidayasutaka.github.io</name>
+    </author>
+    <id>https://yoshidayasutaka.github.io</id>
+
+    <entry>
+        <title>|ω・｀)ノﾔｧ</title>
+        <author>
+            <name>yoshidayasutaka.github.io</name>
+        </author>
+        <link href="https://yoshidayasutaka.github.io/oronoyaa.html"/>
+        <id>https://yoshidayasutaka.github.io/oronoyaa.html</id>
+
+        <updated>2022-04-06T08:05:22+09:00</updated>
+            <summary>
+                <![CDATA[
+                    あああ
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    あああ
+  </p>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
